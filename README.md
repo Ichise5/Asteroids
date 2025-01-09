@@ -1,7 +1,7 @@
 # Asteroids
 
 ## Roadmap
-- --Scoring system--
+- ~~Scoring system~~
 - Menu
 -   Single player
 -   Two players
